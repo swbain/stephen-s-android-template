@@ -17,4 +17,3 @@ class HomeFragment : DaggerFragment() {
         return inflater.inflate(R.layout.fragment_home, container, false)
     }
 }
-
