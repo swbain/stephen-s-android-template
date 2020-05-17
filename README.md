@@ -15,7 +15,7 @@ This a simple, architecture agnostic template to bootstrap android development. 
   - androidx.test
 + [material components](https://github.com/material-components/material-components-android)
 + [timber](https://github.com/JakeWharton/timber)
-+ [dagger 2 + dagger-android](https://dagger.dev/)
++ [dagger 2](https://dagger.dev/) + [dagger-android](https://dagger.dev/dev-guide/android)
 + [retrofit](https://square.github.io/retrofit/)
 + [moshi](https://github.com/square/moshi/)
 + [picasso](https://square.github.io/picasso/)
